@@ -1,0 +1,11 @@
+D:\ADONET\DZ1\bin\Debug\DZ1.exe.config
+D:\ADONET\DZ1\bin\Debug\DZ1.exe
+D:\ADONET\DZ1\bin\Debug\DZ1.pdb
+D:\ADONET\DZ1\obj\Debug\DZ1.csproj.AssemblyReference.cache
+D:\ADONET\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+D:\ADONET\DZ1\obj\Debug\DZ1.exe
+D:\ADONET\DZ1\obj\Debug\DZ1.pdb
+D:\ADONET\DZ4\DZ1\obj\Debug\DZ1.csproj.AssemblyReference.cache
+D:\ADONET\DZ4\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+D:\ADONET\DZ4\DZ1\obj\Debug\DZ1.exe
+D:\ADONET\DZ4\DZ1\obj\Debug\DZ1.pdb
